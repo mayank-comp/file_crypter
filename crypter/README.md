@@ -87,6 +87,9 @@ filecrypter/
 ├── requirements.txt      # optional
 └── README.md
 
+Disclaimer
+
+Use at your own risk. The author provides this tool “as is” and is not responsible for any data loss, corruption, or misuse arising from its use. Always keep backups of your important files before encrypting or decrypting.
 
 License
 
